@@ -1,4 +1,9 @@
 = Standardavtal för IT-tjänster i hemmet
+:revnumber: 1.0
+:revdate: 2026-06-10
+
+Version: {revnumber}
+Gäller från: {revdate}
 
 Detta standardavtal gäller mellan utföraren och köparen för IT-tjänster som utförs i köparens hem. Avtalet fungerar som bilaga till offert, orderbekräftelse eller faktura och förtydligar vad som gäller för tjänsten, betalning och eventuellt RUT-avdrag.
 
