@@ -1,0 +1,67 @@
+= Arbetsprocedur för IT-tjänster i hemmet
+:revnumber: 1.0
+:revdate: 2026-06-10
+
+Version: {revnumber}
+Gäller från: {revdate}
+
+Detta dokument är inte ett avtal utan en gemensam arbetsprocedur mellan kund och utförare. Syftet är att tydligt beskriva hur uppdraget normalt genomförs från start till avslut, så att båda parter har en gemensam bild av arbetssätt, förväntningar och avslutande kontroll.
+
+== Arbetsgång steg för steg
+
+. *Bokning och inledande beskrivning av behov*
++
+Kunden beskriver sitt problem, önskemål eller behov så tydligt som möjligt inför bokning. Utföraren kan vid behov ställa kompletterande frågor för att bedöma uppdragets omfattning och om arbetet lämpar sig för hembesök.
+
+. *Bekräftelse av uppdrag*
++
+Parterna bekräftar vad som i huvudsak ska undersökas, installeras, förbättras eller åtgärdas. Om tillämpligt informeras kunden även om pris, ungefärlig tidsåtgång samt om arbetet kan omfattas av RUT-avdrag.
+
+. *Förberedelser inför besök*
++
+Kunden ser till att berörd utrustning finns tillgänglig och att utföraren kan komma åt den utrustning, de utrymmen och de uppgifter som behövs för att kunna utföra arbetet. Det kan till exempel handla om datorer, routrar, tv-utrustning, lösenord, kontouppgifter eller annan relevant information.
+
+. *Genomgång på plats innan arbete påbörjas*
++
+Innan arbetet börjar går parterna gemensamt igenom vad problemet gäller, vad kunden önskar hjälp med och om det finns några särskilda förutsättningar, begränsningar eller risker att känna till.
+
+. *Utförande av arbetet*
++
+Utföraren genomför det arbete som avtalats utifrån de förutsättningar som finns på plats. Om det under arbetets gång framkommer nya omständigheter, begränsningar eller behov av tilläggsarbeten bör detta förklaras för kunden så snart som möjligt.
+
+. *Löpande dialog vid behov*
++
+Om något oväntat uppstår under uppdraget, till exempel tekniska begränsningar, trasig hårdvara, externa fel eller behov av ytterligare åtgärder, informerar utföraren kunden innan arbetet fortsätter i den delen, om det är praktiskt möjligt.
+
+. *Sammanfattning av vad som har gjorts*
++
+När arbetet är färdigt går utföraren igenom med kunden vad som har utförts, vad som har ändrats, installerats, förbättrats eller åtgärdats, samt om något kvarstår eller ligger utanför uppdragets omfattning.
+
+. *Gemensam kontroll av funktion*
++
+Kund och utförare går, om möjligt, tillsammans igenom de viktigaste funktionerna som berörts av uppdraget för att kontrollera att dessa fungerar utifrån vad som avtalats. Exempel kan vara internetanslutning, utskrift, bild på tv, inloggning, nätverksanslutning eller annan relevant funktion.
+
+. *Bekräftelse efter genomgång*
++
+Efter den gemensamma kontrollen kan kunden bekräfta att arbetet har gåtts igenom tillsammans och att funktionerna, så långt det varit möjligt att kontrollera på plats, verkar fungera enligt genomgången. En sådan bekräftelse begränsar inte kundens rätt att senare reklamera fel som upptäcks i efterhand.
+
+. *Dokumentation och avslut*
++
+Utföraren kan dokumentera vad som har gjorts, vad som har testats, eventuella begränsningar som påtalats samt andra viktiga noteringar kopplade till uppdraget. Därefter avslutas uppdraget och fakturering sker enligt överenskommelse.
+
+== Gemensam bekräftelse efter avslutat arbete
+
+Nedan kan parterna, om de önskar, bekräfta att en gemensam genomgång har skett efter avslutat arbete.
+
+[cols="1,3", frame="none", grid="none"]
+|===
+| Datum | ______________________________
+| Kundens namn | ______________________________
+| Utförarens namn | ______________________________
+| Kundens underskrift | ______________________________
+| Utförarens underskrift | ______________________________
+|===
+
+== Viktigt att notera
+
+Detta dokument är avsett som en praktisk arbetsprocedur och informationsöversikt. Eventuella rättigheter och skyldigheter mellan parterna regleras i första hand av separat avtal, offert, orderbekräftelse, faktura samt tillämplig lag.
