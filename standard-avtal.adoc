@@ -24,6 +24,8 @@ Arbetet utförs på plats i köparens bostad, om inte annat uttryckligen avtalat
 
 Köparen ansvarar för att ge utföraren tillträde till bostaden samt tillgång till den utrustning och information som krävs för att uppdraget ska kunna genomföras.
 
+När arbetet har slutförts bör parterna, om möjligt, gemensamt gå igenom vad som har utförts och kontrollera att berörda funktioner fungerar utifrån vad som avtalats. En sådan genomgång begränsar inte köparens rätt att reklamera fel som upptäcks senare.
+
 == 4. Kundens ansvar
 
 Köparen ansvarar för att:
@@ -57,7 +59,13 @@ Köparen ansvarar själv för säkerhetskopiering av data innan arbetet påbörj
 
 == 8. Reklamation
 
-Om köparen anser att tjänsten är felaktigt utförd ska reklamation ske inom skälig tid efter att felet upptäckts eller borde ha upptäckts.
+Om något i den utförda tjänsten inte blivit rätt vill vi att köparen hör av sig så snart som möjligt. Reklamation ska ske inom skälig tid efter att felet upptäckts eller borde ha upptäckts.
+
+Utföraren ska ges möjlighet att undersöka problemet och, om reklamationen är befogad, rätta till felet utan extra kostnad.
+
+Reklamationen omfattar endast det arbete som utföraren utfört och gäller inte fel som uppkommit på grund av exempelvis hårdvarufel, ändringar som köparen själv gjort, externa tjänster, uppdateringar eller andra omständigheter utanför utförarens kontroll.
+
+Om undersökningen visar att problemet inte beror på den utförda tjänsten kan fortsatt arbete debiteras enligt gällande prislista, efter information till köparen.
 
 == 9. Personuppgifter
 
