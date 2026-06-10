@@ -131,7 +131,8 @@
 
     .cta-row,
     .contact-links,
-    .trust-links {
+    .trust-links,
+    .rut-links {
       display: flex;
       flex-wrap: wrap;
       gap: 0.75rem;
@@ -156,11 +157,13 @@
       border: 1px solid var(--border);
     }
 
-    .trust-links {
+    .trust-links,
+    .rut-links {
       margin-top: 1rem;
     }
 
-    .trust-link {
+    .trust-link,
+    .rut-link {
       font-weight: 700;
       color: var(--primary-dark);
       text-decoration: none;
@@ -178,6 +181,14 @@
       font-size: 1.25rem;
       font-weight: 700;
       margin-bottom: 0.35rem;
+    }
+
+    footer.page-footer {
+      width: min(1100px, calc(100% - 2rem));
+      margin: 0 auto 2rem;
+      color: var(--muted);
+      font-size: 0.95rem;
+      text-align: center;
     }
 
     .contact-box {
@@ -203,6 +214,10 @@
 
       .hero-grid {
         grid-template-columns: 1fr;
+      }
+
+      footer.page-footer {
+        width: min(100% - 1rem, 1100px);
       }
     }
   </style>
@@ -379,6 +394,9 @@
           <p>Om Skatteverket inte godkänner hela avdraget kan mellanskillnaden behöva betalas i efterhand.</p>
         </article>
       </div>
+      <div class="rut-links">
+        <a class="rut-link" href="https://www.skatteverket.se/privat/fastigheterochbostad/rotarbeteochrutarbete/safungerarrutavdraget.4.d5e04db14b6fef2c866097.html" target="_blank" rel="noreferrer">Läs mer hos Skatteverket</a>
+      </div>
     </section>
 
     <section class="section contact-box">
@@ -401,5 +419,9 @@
       </p>
     </section>
   </main>
+
+  <footer class="page-footer">
+    <p>Godkänd för F-skatt · Organisationsnummer: 559078-9979</p>
+  </footer>
 </body>
 </html>
