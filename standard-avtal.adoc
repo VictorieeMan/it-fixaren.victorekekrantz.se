@@ -1,1 +1,111 @@
+= Standardavtal för IT-tjänster i hemmet
 
+Detta standardavtal gäller mellan utföraren och köparen för IT-tjänster som utförs i köparens hem. Avtalet fungerar som bilaga till offert, orderbekräftelse eller faktura och förtydligar vad som gäller för tjänsten, betalning och eventuellt RUT-avdrag.
+
+== 1. Parter
+
+* *Utförare:* IT-fixaren
+* *Köpare:* Den privatperson som beställer tjänsten
+
+== 2. Tjänstens omfattning
+
+Utföraren tillhandahåller IT-hjälp i hemmet, exempelvis hjälp med datorer, nätverk, tv, skrivare, smarta hem-produkter och annan teknik för privat bruk.
+
+Arbetet avser endast sådana tjänster som uttryckligen avtalats mellan parterna i offert, bokning, orderbekräftelse eller motsvarande.
+
+== 3. Utförande
+
+Arbetet utförs på plats i köparens bostad, om inte annat uttryckligen avtalats. För tjänster där RUT-avdrag ska användas gäller att endast arbete som uppfyller Skatteverkets villkor för RUT-avdrag omfattas av skattereduktion.
+
+Köparen ansvarar för att ge utföraren tillträde till bostaden samt tillgång till den utrustning och information som krävs för att uppdraget ska kunna genomföras.
+
+== 4. Kundens ansvar
+
+Köparen ansvarar för att:
+
+* lämna korrekta uppgifter vid bokning och fakturering,
+* säkerställa att utrustningen är tillgänglig och möjlig att arbeta med,
+* upplysa om kända fel, tidigare åtgärder eller andra omständigheter som kan påverka uppdraget,
+* säkerställa att utrustning och tjänster som omfattas av uppdraget används för privat bruk när RUT-avdrag önskas.
+
+Utföraren ansvarar inte för fel som beror på bristfällig information från köparen, tredjepartstjänster, internetleverantör, tillverkare eller andra förhållanden utanför utförarens kontroll.
+
+== 5. Priser och betalning
+
+Pris för tjänsten framgår av offert, prislista, bokningsbekräftelse eller särskild överenskommelse.
+
+Om inte annat avtalats ska betalning ske enligt faktura med den betalningstid som anges på fakturan.
+
+Vid dröjsmål med betalning har utföraren rätt att ta ut dröjsmålsränta enligt räntelagen samt eventuella lagstadgade avgifter för betalningspåminnelse och inkasso.
+
+== 6. Avbokning och ombokning
+
+Avbokning eller ombokning ska ske så snart som möjligt.
+
+Utföraren förbehåller sig rätten att ta ut en skälig avgift vid sen avbokning eller uteblivet besök, särskilt om tid har avsatts och uppdraget inte kan ersättas med annat arbete.
+
+== 7. Ansvarsbegränsning
+
+Utföraren ansvarar inte för indirekta skador, såsom utebliven vinst, dataförlust, produktionsbortfall eller annan följdskada, utom där ansvar följer av tvingande lag.
+
+Köparen ansvarar själv för säkerhetskopiering av data innan arbetet påbörjas. Utföraren ansvarar inte för förlust av data, filer, inställningar eller program som uppstår i samband med felsökning, installation, ominstallation, uppdatering eller annan åtgärd, om inte skadan orsakats genom grov vårdslöshet eller uppsåt.
+
+== 8. Reklamation
+
+Om köparen anser att tjänsten är felaktigt utförd ska reklamation ske inom skälig tid efter att felet upptäckts eller borde ha upptäckts.
+
+== 9. Personuppgifter
+
+Personuppgifter behandlas endast i den omfattning som krävs för att administrera bokning, genomföra uppdrag, fakturera och i förekommande fall ansöka om RUT-avdrag.
+
+== 10. Särskilda villkor för RUT-avdrag för IT-tjänster
+
+Detta avsnitt gäller när köparen önskar utnyttja skattereduktion för RUT-berättigade IT-tjänster i hemmet.
+
+=== 10.1 Bilaga till offert eller orderbekräftelse
+
+Detta avtal utgör en bilaga till offert, orderbekräftelse eller annan beställningshandling och reglerar de särskilda villkor som gäller när köparen begär att utföraren ska ansöka om RUT-avdrag.
+
+=== 10.2 Förutsättningar för RUT-avdrag
+
+Parterna är överens om att utföraren ansöker om RUT-avdrag hos Skatteverket för den del av arbetskostnaden som enligt gällande regler berättigar till skattereduktion. Avdraget görs direkt på kundens faktura.
+
+RUT-avdrag medges endast för arbetskostnaden och endast i den omfattning Skatteverket godkänner.
+
+=== 10.3 Köparens ansvar för uppgifter och skatteutrymme
+
+Köparen intygar att:
+
+* lämnade personuppgifter, inklusive personnummer, är korrekta,
+* köparen har rätt till RUT-avdrag enligt gällande regler,
+* det finns tillräckligt kvarvarande utrymme för skattereduktion,
+* köparen har betalat tillräckligt med skatt i Sverige för att kunna utnyttja avdraget.
+
+Köparen ansvarar själv för att kontrollera sin rätt till avdrag hos Skatteverket.
+
+=== 10.4 Krav på utrustning och utförande
+
+Köparen intygar att den IT-utrustning som arbetet avser ägs av privatperson och används för privat bruk.
+
+För att arbetet ska kunna omfattas av RUT-avdrag ska det utföras i eller i nära anslutning till köparens bostad i enlighet med vid var tid gällande regler.
+
+=== 10.5 Betalningsskyldighet vid helt eller delvis avslag
+
+Om Skatteverket helt eller delvis avslår utförarens begäran om utbetalning av RUT-avdrag, är köparen skyldig att utan dröjsmål betala det belopp som motsvarar den del av arbetskostnaden som inte ersätts av Skatteverket.
+
+Detta gäller oavsett orsaken till avslaget, exempelvis om:
+
+* köparen saknar tillräckligt RUT-utrymme,
+* köparen inte har betalat tillräckligt med skatt,
+* Skatteverket bedömer att tjänsten helt eller delvis inte är RUT-berättigad,
+* ansökan avslås av annan anledning som är hänförlig till köparen eller förutsättningarna för avdraget.
+
+=== 10.6 Efterfakturering
+
+Vid helt eller delvis avslag från Skatteverket har utföraren rätt att efterfakturera det återstående beloppet.
+
+Betalning av sådan tilläggsfaktura ska ske inom 10 dagar från fakturadatum, om inte annat följer av tvingande lag eller särskild skriftlig överenskommelse.
+
+== 11. Tillämplig lag
+
+Avtalet ska tolkas och tillämpas enligt svensk rätt.
