@@ -71,6 +71,8 @@ Om undersökningen visar att problemet inte beror på den utförda tjänsten kan
 
 Personuppgifter behandlas endast i den omfattning som krävs för att administrera bokning, genomföra uppdrag, fakturera och i förekommande fall ansöka om RUT-avdrag.
 
+<<<
+
 == 10. Särskilda villkor för RUT-avdrag för IT-tjänster
 
 Detta avsnitt gäller när köparen önskar utnyttja skattereduktion för RUT-berättigade IT-tjänster i hemmet.
@@ -122,3 +124,29 @@ Betalning av sådan tilläggsfaktura ska ske inom 10 dagar från fakturadatum, o
 == 11. Tillämplig lag
 
 Avtalet ska tolkas och tillämpas enligt svensk rätt.
+
+'''
+
+== Underskrifter
+
+[cols="1,1", options="header"]
+|===
+| Kund | Utförare
+
+| Namn & Initial: +
+	______________________________ +
+
+	Datum: +
+	______________________________ +
+
+	Underskrift: +
+	______________________________
+| Namn & Initial: +
+	______________________________ +
+
+	Datum: +
+	______________________________ +
+
+	Underskrift: +
+	______________________________
+|===
