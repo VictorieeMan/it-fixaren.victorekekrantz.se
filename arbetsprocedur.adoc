@@ -53,13 +53,26 @@ Utföraren kan dokumentera vad som har gjorts, vad som har testats, eventuella b
 
 Nedan kan parterna, om de önskar, bekräfta att en gemensam genomgång har skett efter avslutat arbete.
 
-[cols="1,3", frame="none", grid="none"]
+[cols="1,1", options="header"]
 |===
-| Datum | ______________________________
-| Kundens namn | ______________________________
-| Utförarens namn | ______________________________
-| Kundens underskrift | ______________________________
-| Utförarens underskrift | ______________________________
+| Kund | Utförare
+
+| Namn: +
+  ______________________________ +
+
+  Datum: +
+  ______________________________ +
+
+  Underskrift: +
+  ______________________________
+| Namn: +
+  ______________________________ +
+
+  Datum: +
+  ______________________________ +
+
+  Underskrift: +
+  ______________________________
 |===
 
 == Viktigt att notera
