@@ -107,8 +107,31 @@
       padding: 1.25rem;
     }
 
+    .profile-card {
+      padding: 0;
+      overflow: hidden;
+    }
+
+    .profile-card img {
+      display: block;
+      width: 100%;
+      aspect-ratio: 4 / 5;
+      object-fit: cover;
+      background: #dfe8f6;
+    }
+
+    .profile-content {
+      padding: 1.25rem;
+    }
+
+    .profile-content h2,
+    .profile-content p:last-child {
+      margin-bottom: 0;
+    }
+
     .cta-row,
-    .contact-links {
+    .contact-links,
+    .trust-links {
       display: flex;
       flex-wrap: wrap;
       gap: 0.75rem;
@@ -131,6 +154,16 @@
       background: #fff;
       color: var(--primary-dark);
       border: 1px solid var(--border);
+    }
+
+    .trust-links {
+      margin-top: 1rem;
+    }
+
+    .trust-link {
+      font-weight: 700;
+      color: var(--primary-dark);
+      text-decoration: none;
     }
 
     .grid {
@@ -192,15 +225,37 @@
             <a class="button secondary" href="mailto:teknik.3xd22@email.victorekekrantz.se?subject=IT%20hj%C3%A4lp%20i%20hemmet">Skicka mejl</a>
           </div>
         </div>
-        <aside class="card">
-          <h2>Det här får du</h2>
-          <ul>
-            <li>Tydliga priser inklusive moms</li>
-            <li>50 % RUT-avdrag direkt på fakturan</li>
-            <li>Hembesök i hela Järfälla</li>
-            <li>Endast digital bokning via SMS eller mejl</li>
-          </ul>
+        <aside class="card profile-card">
+          <img src="self-portrait.jpeg" alt="Porträtt på Victor Ekekrantz">
+          <div class="profile-content">
+            <h2>Hej, det är jag som är Victor</h2>
+            <p class="muted">
+              Personlig och trygg IT-hjälp hemma hos dig i Järfälla – med tydliga priser,
+              lugn förklaring och hjälp där tekniken faktiskt används.
+            </p>
+            <div class="trust-links">
+              <a class="trust-link" href="https://www.linkedin.com/in/victoriee-man/" target="_blank" rel="noreferrer">LinkedIn</a>
+            </div>
+          </div>
         </aside>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>Det här får du</h2>
+      <div class="grid">
+        <article class="card">
+          <h3>Tydliga priser</h3>
+          <p>Alltid inklusive moms och med 50 % RUT-avdrag direkt på fakturan.</p>
+        </article>
+        <article class="card">
+          <h3>Hembesök i hela Järfälla</h3>
+          <p>Jag kommer hem till dig så att du slipper bära datorer, routrar eller TV-utrustning.</p>
+        </article>
+        <article class="card">
+          <h3>Enkelt att boka</h3>
+          <p>Boka smidigt via SMS eller mejl när det passar dig bäst.</p>
+        </article>
       </div>
     </section>
 
@@ -284,6 +339,7 @@
         <a class="button" href="sms:+46768910449">SMS: +46 768 91 04 49</a>
         <a class="button secondary" href="mailto:teknik.3xd22@email.victorekekrantz.se?subject=IT%20hj%C3%A4lp%20i%20hemmet">Maila Victor</a>
         <a class="button secondary" href="https://signal.me/#eu/udeaQl2k55HkzGDy0SDhZvlz65XQtvgGWGORLk9GJr7cXSdsst1FkJhQLwAUKX6C">Signal</a>
+        <a class="button secondary" href="https://www.linkedin.com/in/victoriee-man/" target="_blank" rel="noreferrer">LinkedIn</a>
       </div>
       <p style="margin-top: 1.5rem;"><strong>Victor Ekekrantz</strong></p>
       <p class="muted" style="margin-bottom: 0;">
