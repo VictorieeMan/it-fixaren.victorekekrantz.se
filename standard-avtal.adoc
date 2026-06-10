@@ -4,7 +4,7 @@ Detta standardavtal gäller mellan utföraren och köparen för IT-tjänster som
 
 == 1. Parter
 
-* *Utförare:* IT-fixaren
+* *Utförare:* Victor Ekekrantz Aktiebolag, org. nr 559078-9979
 * *Köpare:* Den privatperson som beställer tjänsten
 
 == 2. Tjänstens omfattning
