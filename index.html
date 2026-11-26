@@ -3,12 +3,12 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>IT-hjälp i hemmet i Järfälla | Victor Ekekrantz</title>
+  <title>Snöskottning &amp; IT-hjälp i hemmet i Viksjö &amp; Järfälla | Victor Ekekrantz</title>
   <meta
     name="description"
-    content="IT-hjälp i hemmet i Järfälla. Hjälp med skrivare, datorer, wifi, TV, mobil, surfplatta och smarta hem. Tydliga priser inklusive moms. Boka via SMS eller mejl."
+    content="Lokal grannhjälp i Viksjö och Järfälla. Snöskottning, vinterhjälp och IT-fix i hemmet med 50 % RUT-avdrag direkt på fakturan. Boka enkelt via mejl."
   >
-  <script defer src="https://cloud.umami.is/script.js" data-website-id="3d0f8a7d-4557-4fad-b326-722b4c96f341"></script>
+  <script defer src="https://umami.is" data-website-id="3d0f8a7d-4557-4fad-b326-722b4c96f341"></script>
   <style>
     :root {
       color-scheme: light;
@@ -19,6 +19,9 @@
       --primary: #1459d9;
       --primary-dark: #0d3ea0;
       --accent: #e8f0ff;
+      --warm-bg: #fef3c7;
+      --warm-border: #f59e0b;
+      --warm-text: #78350f;
       --border: #d7e0ee;
       --shadow: 0 18px 45px rgba(17, 35, 64, 0.1);
     }
@@ -75,7 +78,7 @@
     }
 
     h1 {
-      font-size: clamp(2rem, 5vw, 3.8rem);
+      font-size: clamp(2rem, 5vw, 3.6rem);
       line-height: 1.1;
       margin-bottom: 1rem;
     }
@@ -108,6 +111,18 @@
       padding: 1.25rem;
     }
 
+    .card-warm {
+      background: var(--warm-bg);
+      border-color: var(--warm-border);
+      color: var(--warm-text);
+      margin-top: 1rem;
+    }
+
+    .card-warm h3 {
+      color: #92400e;
+      margin-bottom: 0.4rem;
+    }
+
     .profile-card {
       padding: 0;
       overflow: hidden;
@@ -132,7 +147,6 @@
 
     .cta-row,
     .contact-links,
-    .trust-links,
     .rut-links,
     .footer-links,
     .document-links {
@@ -146,7 +160,7 @@
       align-items: center;
       justify-content: center;
       min-height: 48px;
-      padding: 0.85rem 1.2rem;
+      padding: 0.85rem 1.4rem;
       border-radius: 999px;
       background: var(--primary);
       color: #fff;
@@ -160,14 +174,12 @@
       border: 1px solid var(--border);
     }
 
-    .trust-links,
     .rut-links,
     .footer-links,
     .document-links {
       margin-top: 1rem;
     }
 
-    .trust-link,
     .rut-link,
     .footer-link,
     .document-link {
@@ -185,9 +197,10 @@
     }
 
     .price {
-      font-size: 1.25rem;
+      font-size: 1.3rem;
       font-weight: 700;
       margin-bottom: 0.35rem;
+      color: var(--primary-dark);
     }
 
     footer.page-footer {
@@ -196,6 +209,10 @@
       color: var(--muted);
       font-size: 0.95rem;
       text-align: center;
+    }
+
+    .footer-links {
+      justify-content: center;
     }
 
     .contact-box {
@@ -232,19 +249,20 @@
 <body>
   <main class="page">
     <section class="hero">
-      <span class="eyebrow">IT-hjälp i hemmet i Järfälla</span>
+      <span class="eyebrow">Lokal grannhjälp i Viksjö &amp; Järfälla • 50 % RUT-avdrag</span>
       <div class="hero-grid">
         <div>
-          <h1>Trygg och tydlig IT-hjälp hemma hos dig</h1>
+          <h1>Behöver du hjälp med snön eller tekniken i vinter?</h1>
           <p class="lead">
-            Har du en skrivare som vägrar skriva ut, en seg dator eller wifi som krånglar? Jag hjälper dig
-            hemma på plats i Järfälla. Du slipper koppla ur sladdar och åka till en verkstad – jag löser
-            problemen där tekniken faktiskt används.
+            Hej granne! Jag heter Victor, är ingenjörsstudent och bor här i Viksjö.
+            <strong>Har du RUT-avdrag kvar för 2026?</strong> Smartaste sättet att använda det innan nyår:
+            slipp snöskyffeln och teknikkrånglet till halva arbetspriset – jag hjälper dig hemma på plats.
           </p>
-          <p><strong>Tydliga priser inklusive moms. Erbjudanden giltiga under juni 2026.</strong></p>
+          <p>
+            <strong>Tydliga priser inkl. moms • Bokning sker i mån av tid (begränsat antal platser) • Gäller t.o.m. 31 jan 2027.</strong>
+          </p>
           <div class="cta-row">
-            <a class="button" href="sms:+46768910449">Boka via SMS</a>
-            <a class="button secondary" href="mailto:teknik.3xd22@email.victorekekrantz.se?subject=IT%20hj%C3%A4lp%20i%20hemmet">Skicka mejl</a>
+            <a class="button" href="mailto:teknik.3xd22@email.victorekekrantz.se?subject=Bokning%20/%20Fr%C3%A5ga%20Grannhj%C3%A4lp%20Viksj%C3%B6">Boka eller fråga via mejl</a>
           </div>
         </div>
         <aside class="card profile-card">
@@ -252,12 +270,9 @@
           <div class="profile-content">
             <h2>Hej, det är jag som är Victor</h2>
             <p class="muted">
-              Personlig och trygg IT-hjälp hemma hos dig i Järfälla – med tydliga priser,
-              lugn förklaring och hjälp där tekniken faktiskt används.
+              Ingenjörsstudent i Viksjö som erbjuder personlig och trygg hjälp med snöskottning
+              och IT-fix i hemmet – med tydliga priser och lugna förklaringar.
             </p>
-            <div class="trust-links">
-              <a class="trust-link" href="https://www.linkedin.com/in/victoriee-man/" target="_blank" rel="noreferrer">LinkedIn</a>
-            </div>
           </div>
         </aside>
       </div>
@@ -268,67 +283,45 @@
       <div class="grid">
         <article class="card">
           <h3>Tydliga priser</h3>
-          <p>Alla priser är inklusive moms, och du får upp till 50 % RUT-avdrag direkt på fakturan.</p>
+          <p>Alla priser anges inklusive moms, och du får 50 % RUT-avdrag direkt på fakturan.</p>
         </article>
         <article class="card">
-          <h3>Hembesök i hela Järfälla</h3>
-          <p>Jag kommer hem till dig så att du slipper bära datorer, routrar, skrivare eller TV-utrustning.</p>
+          <h3>0 kr framkörning i Viksjö</h3>
+          <p>Eftersom jag bor lokalt i Viksjö tillkommer ingen framkörningsavgift i området (100 kr i övriga Järfälla).</p>
         </article>
         <article class="card">
-          <h3>Enkelt att boka</h3>
-          <p>Kontakta mig enkelt via SMS eller mejl när det passar dig bäst.</p>
-        </article>
-      </div>
-    </section>
-
-    <section class="section">
-      <h2>Vanliga problem jag hjälper till med</h2>
-      <div class="grid">
-        <article class="card">
-          <h3>Skrivaren fungerar inte</h3>
-          <p>Skrivaren hittar inte datorn, är offline eller vägrar skriva ut när du behöver den.</p>
-        </article>
-        <article class="card">
-          <h3>Wifi fungerar bara ibland</h3>
-          <p>Internet är långsamt, tappar kontakten eller fungerar inte i alla rum hemma.</p>
-        </article>
-        <article class="card">
-          <h3>Datorn har blivit seg</h3>
-          <p>Datorn tar lång tid att starta, känns trög eller beter sig konstigt.</p>
-        </article>
-        <article class="card">
-          <h3>Ny mobil eller surfplatta</h3>
-          <p>Kom igång med ny enhet, överför innehåll och få hjälp med viktiga inställningar.</p>
+          <h3>Enkelt att boka via mejl</h3>
+          <p>Skicka ett mejl med vad du behöver hjälp med och din gatuadress så återkommer jag med förslag på tid.</p>
         </article>
       </div>
     </section>
 
     <section class="section">
-      <h2>Jag hjälper till med allt inom teknik</h2>
+      <h2>Tjänster jag hjälper till med i vinter</h2>
       <div class="grid">
         <article class="card">
-          <h3>Datorservice</h3>
-          <p>Snabba upp sega datorer, rensa virus och fixa backup för PC och Mac.</p>
+          <h3>❄️ Snöskottning &amp; vinterhjälp</h3>
+          <p>Skottning av uppfart, gångväg och entré. Priset anpassas efter tomtens storlek och snömängd.</p>
         </article>
         <article class="card">
-          <h3>Skrivare</h3>
-          <p>Koppla ihop, felsöka och lösa problem så att skrivaren faktiskt fungerar.</p>
+          <h3>🌨️ Kostnadsfri snöbevakning</h3>
+          <p>Skriv upp dig på snöbevakning så kommer jag automatiskt vid snöfall och fakturerar per utförd gång.</p>
         </article>
         <article class="card">
-          <h3>Wifi &amp; nätverk</h3>
-          <p>Optimera routern och ta bort döda zoner i hemmet.</p>
+          <h3>🪵 Bärhjälp med ved &amp; tunga säckar</h3>
+          <p>Hjälp att bära in ved eller tunga säckar inom tomten – i samband med besök eller separat enligt överenskommelse.</p>
         </article>
         <article class="card">
-          <h3>TV &amp; streaming</h3>
-          <p>Installera smart-TV, Apple TV, Chromecast och ljudutrustning.</p>
+          <h3>💻 Dator, mobil &amp; surfplatta</h3>
+          <p>Installationer, viktiga uppdateringar, inställningar och backup i lugn takt utan krångliga facktermer.</p>
         </article>
         <article class="card">
-          <h3>Mobil &amp; surfplatta</h3>
-          <p>Kom igång med ny telefon och få hjälp med appar och viktiga funktioner.</p>
+          <h3>🖨️ Skrivare</h3>
+          <p>Koppla ihop skrivaren med datorn eller nätverket och felsöka när den vägrar skriva ut.</p>
         </article>
         <article class="card">
-          <h3>Smarta hem</h3>
-          <p>Installera smart belysning, kameror och robotdammsugare.</p>
+          <h3>📺 Smart-TV &amp; felsökning</h3>
+          <p>Hjälp att koppla in och ställa in smart-TV, streaming och allmän teknikfelsökning i hemmet.</p>
         </article>
       </div>
     </section>
@@ -337,126 +330,32 @@
       <h2>Tydliga och schyssta priser</h2>
       <div class="grid">
         <article class="card">
-          <div class="price">499 kr / timme efter RUT</div>
-          <p class="muted">Ordinarie pris 998 kr / timme inklusive moms.</p>
+          <h3>Snöskottning &amp; vinterhjälp</h3>
+          <div class="price">Från 500 kr / gång</div>
+          <p class="muted">Inkl. moms efter RUT (från 1 000 kr inkl. moms före RUT). Anpassas efter tomt &amp; snömängd.</p>
         </article>
         <article class="card">
-          <div class="price">99 kr framkörningsavgift</div>
-          <p class="muted">Fast avgift inom hela Järfälla.</p>
+          <h3>IT-fix i hemmet</h3>
+          <div class="price">600 kr / timme</div>
+          <p class="muted">Inkl. moms efter RUT (1 200 kr/tim inkl. moms före RUT). Bokas i tydliga 60-minuterspass.</p>
         </article>
         <article class="card">
-          <div class="price">Helgtillägg 199 kr per besök</div>
-          <p class="muted">Tydligt fast tillägg för lördagar och söndagar.</p>
+          <h3>Framkörningsavgift</h3>
+          <div class="price">0 kr i Viksjö</div>
+          <p class="muted">100 kr i övriga Järfälla. Utanför Järfälla enligt överenskommelse. (Inkl. moms, ej RUT-berättigat).</p>
         </article>
         <article class="card">
-          <div class="price">Minst 1 timme per besök</div>
-          <p class="muted">Därefter debiteras påbörjad halvtimme.</p>
-        </article>
-        <article class="card">
+          <h3>Betalningsvillkor</h3>
           <div class="price">10 dagars faktura</div>
-          <p class="muted">Betalning sker mot faktura med 10 dagars betalningsvillkor.</p>
+          <p class="muted">Betalning sker enkelt mot faktura efter utfört arbete. Jag sköter hela RUT-ansökan.</p>
         </article>
+      </div>
+
+      <div class="card card-warm">
+        <h3>🎁 Grannrabatt: Tipsa en granne – få 100 kr rabatt var!</h3>
+        <p style="margin-bottom: 0;">
+          Bokar du och en granne i närheten samma dag (eller tipsar varandra) drar jag av 100 kr på bådas faktura.
+        </p>
       </div>
     </section>
 
-    <section class="section">
-      <h2>Fasta paket</h2>
-      <div class="grid">
-        <article class="card">
-          <h3>🧹 Gör datorn snabb igen</h3>
-          <p class="price">799 kr efter RUT</p>
-        </article>
-        <article class="card">
-          <h3>🎬 Koppla in ny TV &amp; streaming</h3>
-          <p class="price">699 kr efter RUT</p>
-        </article>
-        <article class="card">
-          <h3>📶 Hela hemmet wifi-koll</h3>
-          <p class="price">899 kr efter RUT</p>
-        </article>
-        <article class="card">
-          <h3>🛠️ Specialuppdrag</h3>
-          <p class="muted">Skräddarsydda uppdrag enligt separat offert eller överenskommelse.</p>
-        </article>
-      </div>
-    </section>
-
-    <section class="section">
-      <h2>Så fungerar RUT-avdraget</h2>
-      <div class="grid">
-        <article class="card">
-          <h3>För att RUT ska gälla</h3>
-          <p>Arbetet behöver utföras hemma hos dig, och du behöver vara berättigad till RUT-avdrag.</p>
-        </article>
-        <article class="card">
-          <h3>Bekräftelse från dig</h3>
-          <p>Jag behöver din bekräftelse på att du vill att RUT-avdrag ska tillämpas på arbetet. Om du vill använda RUT-avdrag kan vi tillämpa upp till 50 % av arbetskostnaden, beroende på vad du har kvar i ditt årliga utrymme för RUT-avdrag.</p>
-        </article>
-        <article class="card">
-          <h3>Fakturauppgifter</h3>
-          <p>Skicka helst inte personnummer via mejl eller SMS. Fakturauppgifter och personnummer kan tas på plats vid besöket.</p>
-        </article>
-        <article class="card">
-          <h3>Så går betalningen till</h3>
-          <p>Du betalar din del av kostnaden, och jag ansöker om resten hos Skatteverket. Betalning sker mot 10 dagars faktura.</p>
-        </article>
-        <article class="card">
-          <h3>Om RUT avslås</h3>
-          <p>Om Skatteverket helt eller delvis avslår ansökan om RUT-utbetalning för arbetet förbinder du dig att betala det återstående beloppet till mig inom 10 dagar från att du har fått besked om avslaget.</p>
-        </article>
-      </div>
-      <div class="rut-links">
-        <a class="rut-link" href="https://www.skatteverket.se/privat/fastigheterochbostad/rotarbeteochrutarbete/safungerarrutavdraget.4.d5e04db14b6fef2c866097.html" target="_blank" rel="noreferrer">Läs mer hos Skatteverket om hur RUT-avdrag fungerar</a>
-      </div>
-    </section>
-
-    <section class="section">
-      <h2>Dokument och villkor</h2>
-      <p class="muted">
-        Här kan du läsa mitt standardavtal och den generella arbetsproceduren som beskriver hur uppdrag vanligtvis genomförs från start till avslut.
-      </p>
-      <div class="document-links">
-        <a class="document-link" href="https://raw.githubusercontent.com/VictorieeMan/it-fixaren.victorekekrantz.se/refs/heads/main/standard-avtal.adoc" target="_blank" rel="noreferrer">Standardavtal</a>
-        <a class="document-link" href="https://raw.githubusercontent.com/VictorieeMan/it-fixaren.victorekekrantz.se/refs/heads/main/arbetsprocedur.adoc" target="_blank" rel="noreferrer">Generell arbetsprocedur</a>
-      </div>
-    </section>
-
-    <section class="section contact-box">
-      <h2>Kontakta mig enkelt</h2>
-      <p class="muted">
-        Jag är ofta ute på uppdrag, så enklast är att skicka ett SMS eller mejl med vad du behöver hjälp med.
-        Jag svarar så fort jag kan.
-      </p>
-      <div class="contact-links">
-        <a class="button" href="sms:+46768910449">SMS: +46 768 91 04 49</a>
-        <a class="button secondary" href="mailto:teknik.3xd22@email.victorekekrantz.se?subject=IT%20hj%C3%A4lp%20i%20hemmet">Maila Victor</a>
-        <a class="button secondary" href="https://signal.me/#eu/udeaQl2k55HkzGDy0SDhZvlz65XQtvgGWGORLk9GJr7cXSdsst1FkJhQLwAUKX6C">Signal</a>
-        <a class="button secondary" href="https://www.linkedin.com/in/victoriee-man/" target="_blank" rel="noreferrer">LinkedIn</a>
-      </div>
-      <p style="margin-top: 1.5rem;"><strong>Victor Ekekrantz</strong></p>
-      <p class="muted" style="margin-bottom: 0;">
-        E-post: teknik.3xd22@email.victorekekrantz.se<br>
-        SMS / Signal: +46 768 91 04 49<br>
-        Alla priser är inklusive moms.
-      </p>
-    </section>
-  </main>
-
-  <footer class="page-footer">
-    <p>Godkänd för F-skatt · Organisationsnummer: 559078-9979</p>
-    <div class="footer-links">
-      <a class="footer-link" href="https://raw.githubusercontent.com/VictorieeMan/it-fixaren.victorekekrantz.se/refs/heads/main/standard-avtal.adoc" target="_blank" rel="noreferrer">Standardavtal</a>
-      <a class="footer-link" href="https://raw.githubusercontent.com/VictorieeMan/it-fixaren.victorekekrantz.se/refs/heads/main/arbetsprocedur.adoc" target="_blank" rel="noreferrer">Arbetsprocedur</a>
-    </div>
-  </footer>
-
-  <!--- Testing a stripe link through this site --->
-  <script async src="https://js.stripe.com/v3/pricing-table.js"></script>
-<stripe-pricing-table 
-    pricing-table-id="prctbl_1UZwQWAT2AtDUwap4wjZMNR2"
-    publishable-key="pk_live_51URdloAT2AtDUwapWGFaDcUGarjiSJeRLl9J0dZq6UKHsMaWFLQ0Fuxao8OR7ZhDbMHq1SxbKVOstXmfZuFbgiFc00QYsvn05Z"
-    __locale-override="sv"> <!-- DETTA TVINGAR FRAM ENBART SEK OCH SVENSKA -->
-</stripe-pricing-table>
-
-</body>
-</html>
